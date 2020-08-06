@@ -6,3 +6,6 @@ To initialise the simulation, run the R code in "setupSim.R" (may need to change
 
 # Run experiments ...
 To run simulation experiments, use the "startHere.R" file.
+
+# Gear SDM code ...
+The gearSDM R code is in the file "bglm.r" and can be accessed with a call to the function "gearglm".
